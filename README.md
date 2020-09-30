@@ -1,5 +1,7 @@
-## Data Science
+## DATA SCIENCE
 
+
+Parth12399-patch-1
 `Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.`
 
 ## Data science framework
@@ -10,4 +12,5 @@ master
 This uses various python libraries for eg numpy, matplotlib etc.
 
 `The practice of data science requires the use of machine learning frameworks extensively.`
+master
 master
